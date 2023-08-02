@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a students in Chemical physics at the ENS in Paris
+I'm a student in Chemical physics at the ENS in Paris
 
 In my repos, you will find some of my code I made for my research and my learning
 
